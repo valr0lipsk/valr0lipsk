@@ -2,7 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=700&lines=My+name+is+Valeryia%2C+I'+m+a+Frontend+Developer)](https://git.io/typing-svg)
 
-##### Nice to meet you here, you can help me increase this counter!  
+#### Nice to meet you here, you can help me increase this counter!  
 ![](https://komarev.com/ghpvc/?username=valr0lipsk)
 
 ###### My current techs stack is: 
@@ -11,6 +11,9 @@
 
 ###### I am **really** into improving my skills and keep practising, so Codewars challenges is something that helps me with it :) 
 [![codewars](https://www.codewars.com/users/valr0lipsk/badges/large)](https://www.codewars.com/users/valr0lipsk) 
+
+##### Thank you for visiting my Github profile, have a nice day with the joke 😄
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
 <!--
 **valr0lipsk/valr0lipsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
