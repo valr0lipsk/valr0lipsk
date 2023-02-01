@@ -1,6 +1,6 @@
  # Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>!
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=700&lines=My+name+is+Valeryia%2C+I'+m+a+Frontend+Developer+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=700&lines=My+name+is+Valeryia%2C+I'+m+a+Frontend+Developer)](https://git.io/typing-svg)
 
 <!--
 **valr0lipsk/valr0lipsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
